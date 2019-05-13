@@ -3,4 +3,4 @@ Experimentating multitouch excitation of propagation meshes with miPhysics &amp;
 
 Link to miPhysics library: https://github.com/mi-creative/miPhysics_Processing
 
-Link to video demo: http://mi-creative.eu/video/Expe_miPhysics_miTouch.m4vt
+Video demo available on this page: http://mi-creative.eu/tool_miPhysics.html
